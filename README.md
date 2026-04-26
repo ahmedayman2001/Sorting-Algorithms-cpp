@@ -31,7 +31,7 @@ A collection of fundamental sorting algorithms implemented from scratch in C++ f
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 
 This repository is created to:
 - Understand sorting algorithms deeply
@@ -40,7 +40,7 @@ This repository is created to:
 
 ---
 
-## ⏱ Complexity Overview
+##  Complexity Overview
 
 | Algorithm        | Best | Average | Worst |
 |----------------|------|--------|-------|
@@ -56,12 +56,12 @@ This repository is created to:
 
 ---
 
-## 💻 Language
+##  Language
 
 C++
 
 ---
 
-## ⭐ 
+##  
 
 All algorithms are implemented from scratch with clear comments for learning purposes.
